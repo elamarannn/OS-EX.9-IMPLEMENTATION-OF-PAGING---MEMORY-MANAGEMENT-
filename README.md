@@ -69,4 +69,5 @@ OUTPUT:
 
 
 RESULT:
+
 Thus the implementation of FIFO page replacement is successfully executed.
